@@ -1,3 +1,4 @@
+# Awsome Physics Informed Neural Networks [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)]
 ### Websites
 - Maziar Raissi Github on PINNS that has solved different pdes' usingtensorflow [link](https://github.com/maziarraissi/PINNs)
 - MR website on PINN [link](https://github.com/maziarraissi/PINNs)
