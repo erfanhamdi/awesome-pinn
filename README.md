@@ -6,9 +6,9 @@
 - [Papers](#papers)
 - [Tutorials](#tutorials)
 
-## Websites
-- Maziar Raissi Github on PINNS that has solved different pdes' usingtensorflow [link](https://github.com/maziarraissi/PINNs)
-- MR website on PINN [link](https://github.com/maziarraissi/PINNs)
+## Websites and Resources
+- Maziar Raissi Github on PINNS that has solved different pdes' using tensorflow. [link](https://github.com/maziarraissi/PINNs)
+- Maziar Raissi  website on PINN. [link](https://github.com/maziarraissi/PINNs)
 
 ## Papers
 - Physics-informed neural networks: A deep learning framework for solving forward and inverse problems involving nonlinear partial differential equations. [link](https://www.sciencedirect.com/science/article/pii/S0021999118307125)
