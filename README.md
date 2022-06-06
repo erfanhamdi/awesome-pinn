@@ -1,2 +1,12 @@
-# awsome-PINN
-A curated list of awesome Physics Informed Neural Network, projects and communities.
+### Websites
+- Maziar Raissi Github on PINNS that has solved different pdes' usingtensorflow [link](https://github.com/maziarraissi/PINNs)
+- MR website on PINN [link](https://github.com/maziarraissi/PINNs)
+
+### Papers
+- Physics-informed neural networks: A deep learning framework for solving forward and inverse problems involving nonlinear partial differential equations[link](https://www.sciencedirect.com/science/article/pii/S0021999118307125)
+- Physics Informed Deep Learning (Part I): Data-driven Solutions of Nonlinear Partial Differential Equations. [link](https://arxiv.org/abs/1711.10561)
+- Physics Informed Deep Learning (Part II): Data-driven Discovery of Nonlinear Partial Differential Equations [link](https://arxiv.org/abs/1711.10566)
+- SciANN: A Keras/Tensorflow wrapper for scientific computations and physics-informed deep learning using artificial neural networks [link](https://arxiv.org/pdf/2005.08803.pdf)
+
+### Tutorials
+- Introduction to Physics Informed Neural Networks [link](https://towardsdatascience.com/solving-differential-equations-with-neural-networks-afdcf7b8bcc4)
