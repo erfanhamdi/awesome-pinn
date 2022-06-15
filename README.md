@@ -9,12 +9,13 @@
 ## Websites and Resources
 - Maziar Raissi Github on PINNS that has solved different pdes' using tensorflow. [link](https://github.com/maziarraissi/PINNs)
 - Maziar Raissi  website on PINN. [link](https://github.com/maziarraissi/PINNs)
-
+- Christoph Olah's post on Computational graphs and Backpropagation. [link](http://colah.github.io/posts/2015-08-Backprop/)
 ## Papers
 - Physics-informed neural networks: A deep learning framework for solving forward and inverse problems involving nonlinear partial differential equations. [link](https://www.sciencedirect.com/science/article/pii/S0021999118307125)
 - Physics Informed Deep Learning (Part I): Data-driven Solutions of Nonlinear Partial Differential Equations. [link](https://arxiv.org/abs/1711.10561)
 - Physics Informed Deep Learning (Part II): Data-driven Discovery of Nonlinear Partial Differential Equations. [link](https://arxiv.org/abs/1711.10566)
 - SciANN: A Keras/Tensorflow wrapper for scientific computations and physics-informed deep learning using artificial neural networks. [link](https://arxiv.org/pdf/2005.08803.pdf)
+- Who Invented the Reverse Mode of Differentiation?. [link](https://www.math.uni-bielefeld.de/documenta/vol-ismp/52_griewank-andreas-b.pdf)
 
 ## Tutorials
 - Introduction to Physics Informed Neural Networks. [link](https://towardsdatascience.com/solving-differential-equations-with-neural-networks-afdcf7b8bcc4)
