@@ -18,7 +18,8 @@
 - SciANN: A Keras/Tensorflow wrapper for scientific computations and physics-informed deep learning using artificial neural networks. [link](https://arxiv.org/pdf/2005.08803.pdf)
 - Finite Basis Physics-Informed Neural Networks (FBPINNs): a scalable domain decomposition approach for solving differential equations. [link](https://arxiv.org/abs/2107.07871)
 - Auto-PINN: Understanding and Optimizing Physics-Informed Neural Architecture. [link](https://arxiv.org/pdf/2205.13748.pdf)
-- Who Invented the Reverse Mode of Differentiation?. [link](https://www.math.uni-bielefeld.de/documenta/vol-ismp/52_griewank-andreas-b.pdf)
+- One-Shot Transfer Learning of Physics-Informed Neural Networks [link](https://arxiv.org/abs/2110.11286)
+- Who Invented the Reverse Mode of Differentiation? [link](https://www.math.uni-bielefeld.de/documenta/vol-ismp/52_griewank-andreas-b.pdf)
 
 ## Tutorials
 - Introduction to Physics Informed Neural Networks. [link](https://towardsdatascience.com/solving-differential-equations-with-neural-networks-afdcf7b8bcc4)
