@@ -7,10 +7,9 @@
 - [Tutorials](#tutorials)
 
 ## Websites and Resources
-- [Maziar Raissi Github on PINNS on solution of different pdes' using tensorflow](https://github.com/maziarraissi/PINNs)
-- [Maziar Raissi  website on PINN](https://github.com/maziarraissi/PINNs)
-- [Christoph Olah's post on Computational graphs and Backpropagation](http://colah.github.io/posts/2015-08-Backprop/)
-- [Aria Haghighi's post on L-BFGS Optimization method](https://aria42.com/blog/2014/12/understanding-lbfgs) 
+- [Maziar Raissi Github](https://github.com/maziarraissi/PINNs) - Solving different pde's using PINN
+- [Computational graphs and Backpropagation](http://colah.github.io/posts/2015-08-Backprop/) - Blog post on what are computational graphs by Christoph Olah
+- [Numerical Optimization: Understanding L-BFGS](https://aria42.com/blog/2014/12/understanding-lbfgs)- Blog post on the mathematics behind the L-BFGS optimization method by Aria Haghighi
 ## Papers
 - [Physics-informed neural networks: A deep learning framework for solving forward and inverse problems involving nonlinear partial differential equations](https://www.sciencedirect.com/science/article/pii/S0021999118307125)
 - [Physics Informed Deep Learning (Part I): Data-driven Solutions of Nonlinear Partial Differential Equations](https://arxiv.org/abs/1711.10561)
