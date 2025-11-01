@@ -8,6 +8,7 @@
 
 ## Websites and Resources
 - [Maziar Raissi Github](https://github.com/maziarraissi/PINNs) - Solving different pde's using PINN
+- [Gen-FVGN-steady](https://github.com/Litianyu141/Gen-FVGN-steady) - Generalized Finite Volume Graph Neural Network for steady-state PDEs
 - [Computational graphs and Backpropagation](http://colah.github.io/posts/2015-08-Backprop/) - Blog post on what are computational graphs by Christoph Olah
 - [Numerical Optimization: Understanding L-BFGS](https://aria42.com/blog/2014/12/understanding-lbfgs)- Blog post on the mathematics behind the L-BFGS optimization method by Aria Haghighi
 ## Papers
