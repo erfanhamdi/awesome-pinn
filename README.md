@@ -17,6 +17,7 @@
 - [Finite Basis Physics-Informed Neural Networks (FBPINNs): a scalable domain decomposition approach for solving differential equations](https://arxiv.org/abs/2107.07871) - A scalable approach to for solving large problems related to differential equations with pinns and finding a set of basis functions
 - [Auto-PINN: Understanding and Optimizing Physics-Informed Neural Architecture](https://arxiv.org/pdf/2205.13748.pdf) - Automated hyperparameter optimization approach for PINNs'
 - [One-Shot Transfer Learning of Physics-Informed Neural Networks](https://arxiv.org/abs/2110.11286) - A general framework for transfer-learning on PINNs
+- [Gen-FVGN: A Generalized Finite-Volume Graph Neural Network for solving steady-state PDEs](https://arxiv.org/pdf/2405.04466) - Generalized Finite Volume Graph Neural Network implementation for solving steady-state PDEs
 - [Who Invented the Reverse Mode of Differentiation?](https://www.math.uni-bielefeld.de/documenta/vol-ismp/52_griewank-andreas-b.pdf) - On history and introduction to autodifferentiation
 
 ## Tutorials
