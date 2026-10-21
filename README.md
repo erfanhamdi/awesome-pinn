@@ -36,6 +36,7 @@
 - [Universal Differential Equations for Scientific Machine Learning](https://arxiv.org/abs/2001.04385) - Presents a framework that embeds neural networks inside differential equations to combine data-driven and physics-based modeling, enabling system identification and discovery of governing equations
 - [Conservative Physics-Informed Neural Networks on Discrete Domains for Conservation Laws: Applications to Forward and Inverse Problems](https://www.sciencedirect.com/science/article/pii/S0045782520302127) - Proposes conservative PINNs (cPINNs) using a domain-decomposition strategy that enforces flux continuity at interfaces to solve hyperbolic conservation laws
 - [A physics-informed deep learning framework for inversion and surrogate modeling in solid mechanics](https://www.sciencedirect.com/science/article/pii/S0045782520304357) - Demonstrates PINN-based inversion and surrogate modeling for elasticity problems in solid mechanics, including identification of material parameters from sparse measurements
+- [Staged Depth Training: A Representation Curriculum for PINNs](https://arxiv.org/abs/2609.30299) - Trains a PINN in stages and adds depth at each stage. Lowers the geometric-mean error by 28-33% on all 20 PINNacle forward problems.
 
 ## Tutorials
 - [Introduction to Physics Informed Neural Networks](https://towardsdatascience.com/solving-differential-equations-with-neural-networks-afdcf7b8bcc4) - A hands on solution to logistic equation using PINN
