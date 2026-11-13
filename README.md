@@ -41,3 +41,4 @@
 - [Introduction to Physics Informed Neural Networks](https://towardsdatascience.com/solving-differential-equations-with-neural-networks-afdcf7b8bcc4) - A hands on solution to logistic equation using PINN
 - [So, what is a physics-informed neural network?](https://benmoseley.blog/my-research/so-what-is-a-physics-informed-neural-network/) - A tutorial on harmonic oscillator problem solution using PINNs
 - [Physics Informed Machine Learning (YouTube series by Steve Brunton)](https://www.youtube.com/playlist?list=PLMrJAkhIeNNQ0BaKuBKY43k4xMo6NSbBa) - High-quality, in-depth video lecture series by Prof. Steve Brunton (University of Washington) covering PINN fundamentals, applications, and recent advances
+- [Making PINNs Work](https://github.com/drdmitrymikhaylov/making-pinns-work) - An open course organised around why PINNs fail to converge (loss balancing, spectral bias, causality), with Colab notebooks on Burgers' equation and a five-seed sweep of the loss weight
